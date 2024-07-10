@@ -1,0 +1,19 @@
+.main div{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid;
+    padding: 20px;
+}
+.main div summary:hover{
+    background-color: bisque;
+}
+.main div summary{
+    font-size: 20px;
+}
+h2{
+    text-align: center;
+}
+body{
+    margin: 10px;
+    
+}
